@@ -10,7 +10,6 @@ import faiss
 from scipy import stats
 from skhubness import Hubness
 from skhubness.reduction import LocalScaling
-from ANN_Ninh import ANN_ours
 from tslearn.neighbors import KNeighborsTimeSeries
 import numpy as np
 import matplotlib.pyplot as plt
