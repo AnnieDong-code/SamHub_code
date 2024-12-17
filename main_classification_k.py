@@ -18,7 +18,7 @@ from sklearn.cluster import KMeans
 from sklearn_extra.cluster import KMedoids
 import os
 from tqdm import tqdm
-from Hub_Ninh import Algorithm
+from SamHub import Algorithm
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
